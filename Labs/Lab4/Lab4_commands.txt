@@ -1,0 +1,2 @@
+cd C:\Labs\System_programming\Labs\Lab4\x64\Debug
+regsvr32 /i:xxxx OS12_COM.dll
